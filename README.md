@@ -29,7 +29,7 @@ Built using **Next.js + Node.js + MongoDB + Cloudinary + Tesseract + AWS Rekogni
 
 ## 🏛 System Architecture
 
-![System Architecture](./public/system_architecture.jpeg)
+![System Architecture](./frontend/public/system_architecture.jpeg)
 
 
 
